@@ -1,2 +1,2 @@
 # my-first-repo
-my first repository
+my awesome repository
